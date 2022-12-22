@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 global
 	log /dev/loglocal0
 	log /dev/loglocal1 notice
