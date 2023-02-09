@@ -8,3 +8,4 @@ exec { 'restart':
   path    => '/usr/bin/',
   command => 'service nginx restart',
 }
+
